@@ -1,4 +1,1 @@
-The 'PIC' file contains complete book management system program.
-<br>
-The 'PICPROJECT' file contains Book management system program.
-hi
+This a a small easy Book Management System prototype in C

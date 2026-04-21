@@ -45,6 +45,8 @@ void viewLibrary() {
         printf("  Title: %s\n", library[i].title);
         printf("  Author: %s\n", library[i].author);
         printf("  Year: %d\n", library[i].year);
+        printf("---------------------------------------------\n");
+        
     }
 }
 
@@ -86,6 +88,5 @@ int main() {
             default: printf("Invalid choice. Please try again.\n");
         }
     } while (choice != 4);
-
-    return 0;
+    return 0;
 }
